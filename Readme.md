@@ -10,6 +10,9 @@ git clone https://github.com/hnts03/Nbody_Visualized_Simulation.git
 # cd to repository
 cd Nbody_Visualized_Simulation
 
+# make img directory
+mkdir img
+
 # build
 make -C src/
 
