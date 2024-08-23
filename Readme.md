@@ -5,7 +5,12 @@ Simple Nbody Gravity Simulation and visualized to bitmap images.
 # How to Use?
 ``` shell
 # Clone the repository
+git clone https://github.com/hnts03/Nbody_Visualized_Simulation.git
+
+# cd to repository
 cd Nbody_Visualized_Simulation
+
+# build
 make -C src/
 
 # run
