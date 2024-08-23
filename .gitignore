@@ -1,0 +1,6 @@
+.DS_Store
+src/*.o
+src/.DS_Store
+nobody
+src/nbody
+img/*
